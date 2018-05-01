@@ -1,0 +1,264 @@
+[1525184174.877][INFO]: COMMAND InitSession {
+   "capabilities": {
+      "firstMatch": [ {
+         "browserName": "chrome",
+         "goog:chromeOptions": {
+            "args": [ "--start-maximized" ],
+            "binary": "c:\\working_git\\VSCodeSelenium\\bin\\Debug\\netcoreapp2.0"
+         }
+      } ]
+   },
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "goog:chromeOptions": {
+         "args": [ "--start-maximized" ],
+         "binary": "c:\\working_git\\VSCodeSelenium\\bin\\Debug\\netcoreapp2.0"
+      },
+      "loggingPrefs": {
+         "browser": "ALL"
+      }
+   }
+}
+[1525184174.881][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1525184174.892][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1525184175.018][INFO]: Launching chrome: "c:\working_git\VSCodeSelenium\bin\Debug\netcoreapp2.0" --disable-background-networking --disable-client-side-phishing-detection --disable-default-apps --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --disable-web-resources --enable-automation --enable-logging --force-fieldtrials=SiteIsolationExtensions/Control --ignore-certificate-errors --load-extension="C:\Users\ROB~1.LOC\AppData\Local\Temp\scoped_dir18476_10008\internal" --log-level=0 --metrics-recording-only --no-first-run --password-store=basic --remote-debugging-port=12266 --start-maximized --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\ROB~1.LOC\AppData\Local\Temp\scoped_dir18476_22514" data:,
+[1525184175.051][INFO]: RESPONSE InitSession unknown error: chrome failed to start
+[1525184175.051][DEBUG]: Log type 'driver' lost 0 entries on destruction
+[1525184175.051][DEBUG]: Log type 'browser' lost 0 entries on destruction
+[1525184474.487][INFO]: COMMAND InitSession {
+   "capabilities": {
+      "firstMatch": [ {
+         "browserName": "chrome",
+         "goog:chromeOptions": {
+            "args": [ "--start-maximized", "--no-sandbox", "--disable-gpu" ],
+            "binary": "c:\\working_git\\VSCodeSelenium\\bin\\Debug\\netcoreapp2.0"
+         }
+      } ]
+   },
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "goog:chromeOptions": {
+         "args": [ "--start-maximized", "--no-sandbox", "--disable-gpu" ],
+         "binary": "c:\\working_git\\VSCodeSelenium\\bin\\Debug\\netcoreapp2.0"
+      },
+      "loggingPrefs": {
+         "browser": "ALL"
+      }
+   }
+}
+[1525184474.490][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1525184474.499][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1525184474.547][INFO]: Launching chrome: "c:\working_git\VSCodeSelenium\bin\Debug\netcoreapp2.0" --disable-background-networking --disable-client-side-phishing-detection --disable-default-apps --disable-gpu --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --disable-web-resources --enable-automation --enable-logging --force-fieldtrials=SiteIsolationExtensions/Control --ignore-certificate-errors --load-extension="C:\Users\ROB~1.LOC\AppData\Local\Temp\scoped_dir18476_7275\internal" --log-level=0 --metrics-recording-only --no-first-run --no-sandbox --password-store=basic --remote-debugging-port=12116 --start-maximized --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\ROB~1.LOC\AppData\Local\Temp\scoped_dir18476_20235" data:,
+[1525184474.555][INFO]: RESPONSE InitSession unknown error: chrome failed to start
+[1525184474.555][DEBUG]: Log type 'driver' lost 0 entries on destruction
+[1525184474.555][DEBUG]: Log type 'browser' lost 0 entries on destruction
+[1525184768.619][INFO]: COMMAND InitSession {
+   "capabilities": {
+      "firstMatch": [ {
+         "browserName": "chrome",
+         "goog:chromeOptions": {
+            "args": [ "--start-maximized", "--no-sandbox", "--disable-gpu" ],
+            "binary": "C:\\Program Files (x86)\\Google\\Chrome\\Application"
+         }
+      } ]
+   },
+   "desiredCapabilities": {
+      "browserName": "chrome",
+      "goog:chromeOptions": {
+         "args": [ "--start-maximized", "--no-sandbox", "--disable-gpu" ],
+         "binary": "C:\\Program Files (x86)\\Google\\Chrome\\Application"
+      },
+      "loggingPrefs": {
+         "browser": "ALL"
+      }
+   }
+}
+[1525184768.622][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1525184768.630][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1525184768.684][INFO]: Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application" --disable-background-networking --disable-client-side-phishing-detection --disable-default-apps --disable-gpu --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --disable-web-resources --enable-automation --enable-logging --force-fieldtrials=SiteIsolationExtensions/Control --ignore-certificate-errors --load-extension="C:\Users\ROB~1.LOC\AppData\Local\Temp\scoped_dir18476_8082\internal" --log-level=0 --metrics-recording-only --no-first-run --no-sandbox --password-store=basic --remote-debugging-port=12139 --start-maximized --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\ROB~1.LOC\AppData\Local\Temp\scoped_dir18476_10683" data:,
+[1525184768.690][INFO]: RESPONSE InitSession unknown error: chrome failed to start
+[1525184768.690][DEBUG]: Log type 'driver' lost 0 entries on destruction
+[1525184768.690][DEBUG]: Log type 'browser' lost 0 entries on destruction

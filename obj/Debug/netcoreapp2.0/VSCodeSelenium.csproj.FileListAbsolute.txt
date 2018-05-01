@@ -1,0 +1,14 @@
+C:\working_git\VSCodeSelenium\bin\Debug\netcoreapp2.0\VSCodeSelenium.deps.json
+C:\working_git\VSCodeSelenium\bin\Debug\netcoreapp2.0\VSCodeSelenium.runtimeconfig.json
+C:\working_git\VSCodeSelenium\bin\Debug\netcoreapp2.0\VSCodeSelenium.runtimeconfig.dev.json
+C:\working_git\VSCodeSelenium\bin\Debug\netcoreapp2.0\VSCodeSelenium.dll
+C:\working_git\VSCodeSelenium\bin\Debug\netcoreapp2.0\VSCodeSelenium.pdb
+C:\working_git\VSCodeSelenium\obj\Debug\netcoreapp2.0\VSCodeSelenium.csproj.CoreCompileInputs.cache
+C:\working_git\VSCodeSelenium\obj\Debug\netcoreapp2.0\VSCodeSelenium.AssemblyInfoInputs.cache
+C:\working_git\VSCodeSelenium\obj\Debug\netcoreapp2.0\VSCodeSelenium.AssemblyInfo.cs
+C:\working_git\VSCodeSelenium\obj\Debug\netcoreapp2.0\VSCodeSelenium.dll
+C:\working_git\VSCodeSelenium\obj\Debug\netcoreapp2.0\VSCodeSelenium.pdb
+c:\working_git\VSCodeSelenium\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+c:\working_git\VSCodeSelenium\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+c:\working_git\VSCodeSelenium\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+c:\working_git\VSCodeSelenium\bin\Debug\netcoreapp2.0\VSCodeSelenium.dll.config
